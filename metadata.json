@@ -1,0 +1,6 @@
+{
+  "name": "NoChurn",
+  "description": "Your AI Employee that checks customer risk every morning, identifies accounts worth saving, and prepares personalized retention outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
